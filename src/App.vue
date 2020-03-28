@@ -21,7 +21,7 @@
 
 <script>
 import _ from 'lodash'
-import { validate, getId } from '../helpers/utility'
+import { validate, getId } from './utility'
 export default {
   props: {
     placeholder: {
