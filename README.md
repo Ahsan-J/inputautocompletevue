@@ -1,29 +1,20 @@
-# inputautocompletevue
+## InputAutocompleteVue
+
+InputAutocompleteVue is my own component created in Vue js that handles the input text and filters out list depends upon the text specified. 
 
 ## Project setup
 ```
-npm install
+npm install --save Ahsan-J/inputAutocompletevue#master
 ```
 
-### Compiles and hot-reloads for development
+## Example
+
 ```
-npm run serve
+Example
 ```
 
-### Compiles and minifies for production
-```
-npm run build
+## Props
+
 ```
 
-### Run your unit tests
 ```
-npm run test:unit
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

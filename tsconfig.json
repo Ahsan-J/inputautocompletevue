@@ -9,6 +9,9 @@
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
     "sourceMap": true,
+    "declaration": true,
+    "declarationMap": true,
+    "outDir": "build",
     "baseUrl": ".",
     "types": [
       "webpack-env",
